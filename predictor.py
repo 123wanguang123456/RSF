@@ -1,6 +1,3 @@
-conda activate survival-env
-
-python
 import streamlit as st
 import joblib
 import numpy as np
